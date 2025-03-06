@@ -1,9 +1,9 @@
 # Hi, I'm Mohammed Chams 👋 Computer Science Student @ UWO
 
 ## About Me
-- 🎓 Computer Science student at the University of Western Ontario
+- 🎓 Fourth year Computer Science student at the University of Western Ontario
 - 💻 Passionate about software development, algorithms, and system design
-- 🔭 Currently focusing on object-oriented design and C++ programming
+- 🔭 Currently exploring various programming paradigms and software architectures
 - 🌱 Always learning and exploring new technologies
 
 ## Skills
