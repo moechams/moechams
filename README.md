@@ -22,11 +22,11 @@
 - **Game Development**: Unity Engine, 2D Game Design
 
 ## Projects
-- 📚 Library Management System - Object-oriented C++ application implementing design patterns
-- 🎮 Java Minesweeper - Classic game with custom linked grid data structure
-- 🧩 Maze Solver - Graph-based pathfinding algorithm implementation using depth-first search
-- 🧮 Math Racing Game - Educational game developed for CS2212
-- 🏦 Bank Account Management - C program implementing thread synchronization for concurrent transactions
+- 📚 [Library Management System](https://github.com/moechams/library-management-system) - Object-oriented C++ application implementing design patterns
+- 🎮 [Java Minesweeper](https://github.com/moechams/java-minesweeper-game) - Classic game with custom linked grid data structure
+- 🧩 [Maze Solver](https://github.com/moechams/java-maze-solver) - Graph-based pathfinding algorithm implementation using depth-first search
+- 🧮 [Math Racing Game](https://github.com/moechams/math-race-educational-game) - Educational game developed for CS2212
+- 🏦 [Bank Account Management](https://github.com/moechams/bank-account-multithreading) - C program implementing thread synchronization for concurrent transactions
 
 ## Connect With Me
 - [LinkedIn Profile](https://www.linkedin.com/in/mohammed-chams-03043225a)
